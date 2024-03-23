@@ -1,2 +1,2 @@
 # GEOG-5410
-Codes for climate mode analysis.
+Practise codes for climate mode and climate index analysis.
